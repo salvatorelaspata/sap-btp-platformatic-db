@@ -1,0 +1,7 @@
+---
+applications:
+- name: platformatic-db
+  random-route: true
+  path: .
+  buildpacks:
+  - nodejs_buildpack
